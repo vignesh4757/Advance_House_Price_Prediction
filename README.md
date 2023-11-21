@@ -1,4 +1,4 @@
-# House Price Prediction
+# Advance House Price Prediction
 > Advanced House Price Regression
 Predicting house prices using advanced regression techniques such as Ridge and Lasso.
 
@@ -30,7 +30,7 @@ Predicting house prices using advanced regression techniques such as Ridge and L
 - sklearn
 - seaborn
 - Ridge
-- Lesso
+- Lasso
 - Model Selection
 - statmodels
 
@@ -39,5 +39,5 @@ Predicting house prices using advanced regression techniques such as Ridge and L
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-This Project is inspired by IIITB Bangalore.
+This Project is done by Vignesh 
 
