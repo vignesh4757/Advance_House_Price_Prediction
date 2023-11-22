@@ -19,7 +19,7 @@ Predicting house prices using advanced regression techniques such as Ridge and L
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Regularization is used to make the model simpler. Regularization helps to strike the delicate balance between keeping the model simple and not making it too naive to be of any use. For regression, regularization involves adding a regularization term to the cost that adds up the absolute values or the squares of the parameters of the model. Also, Making a model simple leads to Bias-Variance Trade-off:
+- Regularization is used to make the model simpler. Regularization helps to strike the delicate balance between keeping the model simple and not making it too naive to be of any use. For regression, regularization involves adding a regularization term to the cost that adds up the absolute values or the squares of the parameters of the model. Also, Making a model simple leads to Bias-Variance Trade-off
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
